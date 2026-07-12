@@ -6,7 +6,7 @@ The primary focus of this course was to understand how organizations identify, a
 ## Detailed Curriculum Highlights
 
 ### 1. Risk Management Frameworks
-I explored how security teams use frameworks to categorize and handle threats systematically[cite: 1, 2]. This includes understanding the lifecycle of security incidents from identification to recovery
+I explored how security teams use frameworks to categorize and handle threats systematically. This includes understanding the lifecycle of security incidents from identification to recovery
 
 ### 2. Incident Response (IR) Fundamentals
 I mastered the six key phases of the Incident Response lifecycle:
